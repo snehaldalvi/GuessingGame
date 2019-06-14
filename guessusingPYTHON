@@ -1,4 +1,4 @@
-#using Recursion
+#using Recursion in python
 def fun():
 	secret_num=15
 	user_num=-1
